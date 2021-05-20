@@ -1,0 +1,4 @@
+0;Admin;--;0;--;--
+1;Nacho;76831553-R;655480291;Spain;Alicante
+12;Carlos;48626441-w;639023356;Spain;Alicante
+999;Invited;--;0;--;--

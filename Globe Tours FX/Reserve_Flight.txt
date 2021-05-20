@@ -1,0 +1,13 @@
+1;Alicante;Paris;23/04/2022;10/05/2022;true;130.0
+12;Alicante;Bergamo;12/12/2021;27/12/2021;true;77.0
+12;Alicante;Bergamo;2021-05-21;2021-05-29;true;77.0
+1;Ankara;Alicante;2021-05-21;2021-05-28;true;300.0
+12;Barcelona;Moscow;09/10/2022;25/10/2022;true;320.0
+12;Ibiza;Alicante;2021-05-15;2021-05-17;true;120.0
+12;Ibiza;Alicante;2022-05-11;2022-05-21;true;120.0
+12;Lisbon;Valencia;2021-05-18;2021-05-19;true;102.0
+12;Madrid;New York;15/10/2022;07/11/2022;true;789.0
+12;Madrid;Buenos Aires;2021-05-21;2021-05-22;true;850.0
+Guest;Madrid;Ankara;2021-05-16;2021-05-17;true;278.0
+1;Madrid;Ankara;2021-05-21;2021-05-28;true;278.0
+1;Valencia;Roma;21/07/2022;07/08/2022;false;116.0

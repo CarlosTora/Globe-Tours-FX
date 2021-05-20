@@ -1,0 +1,71 @@
+Alicante;Carlos;Castillo Santa Barbara;Spanish;20
+Alicante;Carlos;Playa Postiguet;Spanish;13
+Alicante;Carlos;IES Sanvicente;Spanish;10
+Alicante;Juan;Lucentum;English;17
+Madrid;Laura;El Retiro;English;21
+Madrid;Laura;Palacio Real;English;66
+Madrid;Laura;Museo del Prado;English;80
+Madrid;Laura;Plaza Mayor;English;55
+Madrid;David;Cibeles;Spanish;12
+Madrid;David;Puerte del Sol;Spanish;12
+Madrid;David;Santiago Bernabeu;Spanish;12
+Barcelona;Joan;Sagrada Familia;English;17
+Barcelona;Joan;Park Güell;English;49
+Barcelona;Joan;La Rambla;English;14
+Barcelona;Joan;La Pedrera;English;19
+Barcelona;Joan;Casa Batlló;English;19
+New York;Maria;Central Park;English;23
+New York;Elon;Empire State;English;31
+New York;Elon;Time Square;English;110
+New York;Maria;MoMA;English;166
+Copenhague;Reme;La Sirenita;English;26
+Copenhague;Reme;Jardines de Tivoli;English;100
+Copenhague;Reme;Nyhavn;English;79
+Copenhague;Lucas;Palacio Amalienborg;English;210
+Copenhague;Lucas;Castillo Rosenborg;English;82
+Ankara;Hunc;Ancira;Turkish;18
+Ankara;Hunc;Anitkabir;Turkish;23
+Ankara;Hunc;Ankara Castle;Turkish;55
+Ankara;Jhiny;Mezquita Kocatepe;Turkish;55
+Ankara;Jhiny;Atakule;Turkish;93
+Ankara;Jhiny;Atakule;Turkish;93
+Ibiza;Mario;Pacha Discoteca;Spanish;100
+Ibiza;Mario;Beachs tours;Spanish;100
+Pisa;Luiggi;Torre Pisa;Italian;12
+Pisa;Luiggi;Piazza dei Miracoli;Italian;20
+Pisa;Mario;Catedral de Pisa;Italian;10
+Pisa;Mario;Batisterio de Pisa;Italian;77
+Buenos Aires;Lucia;Plaza de Mayo;Spanish;17
+Buenos Aires;Lucia;Cementerio de la Recoleta;Spanish;22
+Buenos Aires;Lucia;El Caminito;Spanish;17
+Buenos Aires;David;Casa Rosada;Spanish;52
+Buenos Aires;David;Teatro Colón;Spanish;77
+Buenos Aires;David;Obelisco;Spanish;25
+Paris;Adam;Torre Eiffel;French;61
+Paris;Adam;Louvre;French;150
+Paris;Adam;Notre Dame;French;220
+Paris;Laura;Arco del Triunfo;French;80
+Paris;Laura;Versalles;French;98
+Paris;Laura;Campos Eliseos;French;43
+Bergamo;Marco;Basilica Maggione;Italian;33
+Sevilla;Marta;Real Alcázar;Spanish;31
+Tokyo;BinBin;Senso-Ji;Japanese;100
+Tokyo;BinBin;Tokyo Skytree;Japanese;142
+Tokyo;BinBin;Torre Tokyo;Japanese;166
+Tokyo;XinZao;Santuario Meiji;Japanese;99
+Tokyo;XinZao;Tokio Disneyland;Japanese;250
+Tokyo;XinZao;Odaiba;Japanese;250
+Valencia;Nacho;Ciudad de las Artes y las Ciencias;Spanish;51
+Lisbon;Luis;Torre de Belém;Portuguese;48
+Roma;Marco;Coliseo;Italian;79
+Casablanca;Mohammed;Mezquita Hassan II;English;34
+Dubai;John;Burj Khalifa;English;89
+Dubai;John;Burj Al Arab;English;102
+Dubai;John;Dubai Mall;English;141
+Dubai;Hune;Khawr Dubayy;English;199
+Dubai;Hune;Fuente Dubai;English;70
+Dubai;Hune;Ski Dubai;English;250
+Berlin;Adam;Edificio del Reichstag;German;61
+London;Amie;Big Ben;English;100
+Moscow;Vladimir;Catedral San Basilio;Russian;63
+Mykonos;Aeneas;Delos;English;27

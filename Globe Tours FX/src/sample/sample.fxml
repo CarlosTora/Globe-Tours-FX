@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <AnchorPane fx:id="code_user" prefHeight="500.0" prefWidth="700.0">
+         <children>
+            <Label layoutX="466.0" layoutY="23.0" text="User:" />
+            <TextField fx:id="txtUser" layoutX="501.0" layoutY="19.0" prefHeight="25.0" prefWidth="116.0" promptText="Insert Code User" />
+            <Button fx:id="btn_LogIn" layoutX="624.0" layoutY="19.0" mnemonicParsing="false" onAction="#btn_login" text="LOG IN" />
+            <ListView fx:id="ListElements" layoutX="12.0" layoutY="20.0" prefHeight="286.0" prefWidth="258.0" />
+            <Button fx:id="bttHotel" layoutX="362.0" layoutY="154.0" mnemonicParsing="false" onAction="#bttHotelPushed" prefHeight="25.0" prefWidth="237.0" style="-fx-background-color: #dadada;" text="HOTEL" AnchorPane.leftAnchor="362.0" AnchorPane.rightAnchor="101.0" AnchorPane.topAnchor="154.0" />
+            <Label alignment="CENTER" layoutX="280.0" layoutY="111.0" style="-fx-background-color: #ebcc85;" text="- MENU -" AnchorPane.leftAnchor="280.0" AnchorPane.rightAnchor="20.0">
+               <font>
+                  <Font size="17.0" />
+               </font></Label>
+            <Button fx:id="bttFlight" layoutX="362.0" layoutY="203.0" mnemonicParsing="false" onAction="#bttFlyPushed" prefHeight="25.0" prefWidth="237.0" style="-fx-background-color: #dadada;" text="FLIGHT" AnchorPane.topAnchor="203.0" />
+            <Button fx:id="bttGuide" layoutX="362.0" layoutY="253.0" mnemonicParsing="false" onAction="#bttGuidePushed" prefHeight="25.0" prefWidth="237.0" style="-fx-background-color: #dadada;" text="GUIDE TOUR" AnchorPane.topAnchor="253.0" />
+            <Button fx:id="bttFull" layoutX="362.0" layoutY="303.0" mnemonicParsing="false" onAction="#bttAllPushed" prefHeight="25.0" prefWidth="237.0" style="-fx-background-color: #dadada;" text="FULL TRIP" AnchorPane.topAnchor="303.0" />
+            <Label fx:id="txt_menu" contentDisplay="CENTER" layoutX="499.0" layoutY="64.0" prefHeight="17.0" prefWidth="148.0" />
+            <Button fx:id="bttEnter" layoutX="454.0" layoutY="374.0" mnemonicParsing="false" onAction="#bttEnter" text="ENTER" />
+            <Label fx:id="txtOption" alignment="CENTER" layoutX="59.0" layoutY="2.0" prefHeight="17.0" prefWidth="159.0" />
+            <Button fx:id="bttConfirm" layoutX="31.0" layoutY="462.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="216.0" style="-fx-background-color: #8ff588;" text="CONFIRM" />
+            <DatePicker fx:id="dpDeparture" layoutX="15.0" layoutY="331.0" prefHeight="25.0" prefWidth="258.0" />
+            <DatePicker fx:id="dpArrival" layoutX="15.0" layoutY="385.0" prefHeight="25.0" prefWidth="258.0" />
+            <Label fx:id="txt_departure" layoutX="112.0" layoutY="308.0" />
+            <Label fx:id="txt_arrival" layoutX="122.0" layoutY="366.0" />
+            <CheckBox fx:id="cb_options" layoutX="103.0" layoutY="427.0" mnemonicParsing="false" text="Business" />
+            <Label fx:id="txt_welcome" layoutX="522.0" layoutY="64.0" prefHeight="17.0" prefWidth="148.0" />
+            <ImageView fx:id="logo" fitHeight="97.0" fitWidth="100.0" layoutX="313.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../img/logo.jpg" />
+               </image></ImageView>
+         </children></AnchorPane>
+   </children>
+</GridPane>

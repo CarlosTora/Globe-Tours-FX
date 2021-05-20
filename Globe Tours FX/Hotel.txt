@@ -1,0 +1,69 @@
+Alicante;Melia;105;5;false
+Alicante;Maya;62;4;true
+Alicante;Lucentum;38;3;true
+Madrid;Charmartin;100;4;true
+Madrid;Vincci Soho;199;5;false
+Madrid;Illunion Norte;88;4;true
+Madrid;B&B Madrid Centro;66;3;true
+Barcelona;Barcelo Sants;89;4;true
+Barcelona;Novotel;48;3;true
+Barcelona;Motel Pep;12;1;false
+Barcelona;Ayre Rosello;122;5;false
+New York;Moxy NYC;201;5;false
+New York;Pod Times;144;4;false
+New York;Riu Plaza;89;3;true
+New York;Manhattan Hotel;81;2;true
+New York;Elements Times;64;2;true
+New York;Pod 51;212;5;false
+New York;Millennium;361;5;false
+Copenhague;Ascot Hotel;99;4;true
+Copenhague;WakeUp Cop;59;2;true
+Copenhague;Go Hotel;68;3;false
+Copenhague;Cabinn;127;5;false
+Copenhague;Absalon;169;5;false
+Ankara;Cinnah;49;3;true
+Ankara;Ickale;99;4;false
+Ankara;Kayra;120;5;false
+Ankara;Abro Sezenler;74;4;true
+Ankara;Enerji Otel;16;2;false
+Ibiza;Energy;290;5;false
+Pisa;Torre Pisa;29;1;false
+Buenos Aires;La plata;44;2;false
+Buenos Aires;Hotel Peter;39;3;true
+Buenos Aires;In Plaza;100;5;true
+Paris;B&B Eiffel;120;4;false
+Paris;Le mon;210;5;false
+Paris;City;58;3;true
+Bergamo;Little Italy;48;3;false
+Bergamo;Milan;98;5;true
+Bergamo;Tren Station;120;5;true
+Sevilla;La torre;180;5;false
+Sevilla;La cartuja;78;3;true
+Tokyo;YenQi;291;5;false
+Tokyo;Huni;87;4;true
+Tokyo;Quin;100;4;true
+Valencia;Falles;66;3;false
+Valencia;La terreta;71;4;true
+Lisbon;Holly;58;3;false
+Lisbon;Portugal;44;2;true
+Lisbon;Yhin;100;5;false
+Roma;Julio Cesar;124;4;false
+Roma;Colliseum;99;3;true
+Roma;Gladiator;36;2;false
+Casablanca;Kunh;120;5;false
+Casablanca;Kira;62;3;true
+Dubai;Moon;412;6;false
+Dubai;Gold;289;5;true
+Dubai;Kunah;189;4;false
+Berlin;Khuga;59;3;false
+Berlin;Germ;99;4;true
+Berlin;Gym Hotel;74;4;false
+London;The Queen;241;5;false
+London;Inside;75;3;true
+London;Motel;22;1;false
+Moscow;Izmailovo;100;4;false
+Moscow;Crowne;187;5;true
+Moscow;PentaHotel;76;3;false
+Mykonos;Elena;77;4;false
+Mykonos;Litte Venice;57;3;true
+Mykonos;Manos;110;5;false

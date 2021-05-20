@@ -1,0 +1,5 @@
+null;Barcelona;Joan;La Pedrera;2021-05-22;English;19.0
+1;Barcelona;Joan;Casa Batlló;2021-05-22;English;19.0
+1;Casablanca;Mohammed;Mezquita Hassan II;2021-05-16;English;34.0
+1;Copenhague;Lucas;Palacio Amalienborg;2021-05-15;English;210.0
+12;Pisa;Luiggi;Piazza dei Miracoli;2021-05-15;Italian;20.0

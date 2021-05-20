@@ -1,0 +1,4 @@
+1;Alicante;Melia;105.0;2021-05-22;2021-06-04;5;true
+null;Barcelona;Barcelo Sants;89.0;2021-05-21;2021-05-22;4;false
+12;Casablanca;Kira;62.0;2021-05-20;2021-05-22;3;false
+12;New York;Millennium;201.0;2021-05-20;2021-05-23;5;false

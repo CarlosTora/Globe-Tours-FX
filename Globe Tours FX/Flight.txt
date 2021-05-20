@@ -1,0 +1,32 @@
+Alicante;Madrid;75.90
+Alicante;Pisa;110.0
+Alicante;Copenhagen;283.0
+Alicante;Paris;130.0
+Alicante;Barcelona;60.0
+Alicante;Sevilla;73.0
+Alicante;Bergamo;77.0
+Alicante;Ankara;340.0
+Alicante;Mykonos;280.0
+Alicante;Ibiza;211.0
+Alicante;Casablanca;200.0
+Ankara;Alicante;300.0
+Barcelona;Moscow;320.0
+Barcelona;Roma;100.0
+Barcelona;Dubai;740.0
+Casablanca;Alicante;160.0
+Ibiza;London;430.0
+Ibiza;Alicante;120.0
+Ibiza;Madrid;180.0
+Lisbon;Valencia;102.0
+Madrid;London;99.0
+Madrid;New York;789.0
+Madrid;Buenos Aires;850.0
+Madrid;Barcelona;45.99
+Madrid;Berlin;219.0
+Madrid;Ankara;278.0
+Madrid;Tokyo;1450.0
+Madrid;Dubai;1200.0
+Sevilla;Casablanca;270.0
+Valencia;Roma;116.0
+Valencia;Lisbon;89.98
+Valencia;Ankara;300.0
